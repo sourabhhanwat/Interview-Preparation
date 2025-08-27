@@ -1,4 +1,4 @@
-1. How do you deploy PySpark applications in a production environment?
+1. How do you deploy PySpark applications in a production environment
 2. What are some best practices for monitoring and logging PySpark jobs?
 3. How do you manage resources and scheduling in a PySpark application?
 4. Write a PySpark job to perform a specific data processing task (e.g., filtering data, aggregating results).
